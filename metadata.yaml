@@ -1,0 +1,37 @@
+_repo: The-Troubles-of-Biddy--A-Pretty-Little-Story_34438
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Price, Margaret Evans
+    birthdate: 1888
+    deathdate: 1973
+    gutenberg_agent_id: '37023'
+    url: http://www.gutenberg.org/2009/agents/37023
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Byrum, Isabel C. (Isabel Coston)
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '4193'
+    url: http://www.gutenberg.org/2009/agents/4193
+description: Biddy the chicken, sad at her own lack of eggs, is given duck eggs to
+  sit on. After they hatch she tries to raise the ducklings as her own chicks.
+gutenberg_issued: '2010-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34438'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chickens -- Juvenile poetry'
+- !lcsh 'Ducklings -- Juvenile poetry'
+- !lcsh 'Children''s poetry'
+- !lcc 'PZ'
+- !lcsh 'Mothers -- Juvenile poetry'
+title: 'The Troubles of Biddy: A Pretty Little Story'
+url: http://www.gutenberg.org/ebooks/34438
