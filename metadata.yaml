@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4193
 description: Biddy the chicken, sad at her own lack of eggs, is given duck eggs to
   sit on. After they hatch she tries to raise the ducklings as her own chicks.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34438#The-Troubles-of-Biddy--A-Pretty-Little-Story
 gutenberg_issued: '2010-11-25'
 gutenberg_type: Text
 identifiers:
